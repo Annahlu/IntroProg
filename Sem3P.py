@@ -36,7 +36,7 @@ while r:
     r = a % b
 print('b')'''
 #triangular
-n = input()
+'''n = input()
 n = int(n)
 resp = 'não triangular'
 m = int(n**(1/3))
@@ -44,6 +44,6 @@ for i in range (1, m+1):
     if i*(i+1)*(i+2) == n:
         resp = 'triangular'
         break
-print(resp)
+print(resp)'''
 
 

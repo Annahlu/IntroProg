@@ -29,19 +29,6 @@ elif(n == 0):
 else:
     print('Positivo')'''
 #3 - maior de 5
-'''n1, n2, n3, n4, n5 = input().split()
-n1, n2, n3, n4, n5 = float(n1), float(n2), float(n3), float(n4), float(n5)
-maior = 0
-menor = 0
-if (n2 > n1):
-    maior = n2
-    menor = n1
-elif (n1 > n2):
-    maior = n1
-    menor = n2
-if (n3 > maior):
-    maior = n3
-'''
 n1, n2, n3, n4, n5 = input().split()
 n1, n2, n3, n4, n5 = float(n1), float(n2), float(n3), float(n4), float(n5)
 maior = n1
